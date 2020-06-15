@@ -1,0 +1,6 @@
+[submodule "components/ps3"]
+	path = components/ps3
+	url = https://github.com/jvpernis/esp32-ps3.git
+[submodule "components/ps4"]
+	path = components/ps4
+	url = https://github.com/openobjects/PS4-esp32.git
