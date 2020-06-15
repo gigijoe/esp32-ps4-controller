@@ -1,5 +1,7 @@
-# Blink Example
+# ESP32 PS4 controller example
 
-Starts a FreeRTOS task to blink an LED
+Fix mac that PS4 controller connect to
 
-See the README.md file in the upper level 'examples' directory for more information about examples.
+uint8_t new_mac[8] = {0x48,0x2C,0xA0,0x2D,0xBF,0xB3};
+
+
